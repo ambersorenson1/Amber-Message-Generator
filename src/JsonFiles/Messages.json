@@ -1,0 +1,27 @@
+[
+  {
+  "id": 0,
+  "type": "reservation",
+  "message": "{{dayTime}} {{name}}, welcome to {{hotelName}}. Your room number is {{roomNumber}}, we hope that you enjoy your stay!"
+},
+{
+  "id": 1,
+  "type": "reservation-end",
+  "message": "{{dayTime}} {{name}}, thank you for visiting {{hotelName}}. Your time in room Number {{roomNumber}} has ended. We hope to see you again soon!"
+},
+{
+"id": 2,
+"type": "Incoming Phone call",
+"message": "{{dayTime}} {{name}}, thank you for contacting {{hotelName}}. My name is Amber Sorenson, how can I be of service to you today?"
+},
+{
+"id": 3,
+"type": "reservation-start",
+"message": "{{dayTime}} {{name}}, welcome to {{hotelName}}. Your room number is {{roomNumber}}, we hope that you enjoy your stay!"
+},
+{
+  "id": 4,
+  "type": "custom",
+  "message": ""
+  }
+]
